@@ -11,10 +11,10 @@ I'm a data-driven problem solver with over a decade of experience in research an
 - Contributing to open-source and Kaggle challenges
 
 ## 🚀 Projects
-- **[Bellabeat Wellness Tracker](link-to-your-repo)**  
+- **[Bellabeat Wellness Tracker]([link-to-your-repo](https://www.kaggle.com/code/mmanuelam/case-study-bellabeat))**  
   Exploratory analysis of user health data using Python, Pandas, and Tableau.
   
-- **[Real Estate Price Analysis](link-to-your-repo)**  
+- **[Real Estate Price Analysis]([link-to-your-repo](https://www.kaggle.com/code/mmanuelam/real-estate-analysis))**  
   Regression modeling and visual insights on housing data.
 
 - **[Other project name](link)**  
@@ -27,7 +27,7 @@ I'm a data-driven problem solver with over a decade of experience in research an
 ## 📫 How to reach me
 - ✉️ [manu.mura@gmail.com](mailto:manu.mura@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/manuela-m-2558497/)
-- 📊 [Kaggle](https://www.kaggle.com/yourprofile) _(if available)_
+- 📊 [Kaggle]([https://www.kaggle.com/mmanuelam/])
 
 ---
 
