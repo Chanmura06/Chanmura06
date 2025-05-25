@@ -15,7 +15,7 @@ I'm a data-driven problem solver with over a decade of experience in academia an
 
 ## 🚀 Featured Projects
 
-- **[Bellabeat Wellness Tracker](https://www.kaggle.com/code/mmanuelam/case-study-bellabeat)**  
+- **[Unsupervised Machine Learning: Wine Dataset Clustering] (https://www.kaggle.com/code/mmanuelam/wine-dataset)**  
   Exploratory analysis of health data using R and visualisation tools.
 
 - **[Real Estate Price Analysis](https://www.kaggle.com/code/mmanuelam/real-estate-analysis)**  
