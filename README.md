@@ -15,8 +15,13 @@ I'm a data-driven problem solver with over a decade of experience in academia an
 
 ## 🚀 Featured Projects
 
-- **[Unsupervised Machine Learning: Wine Dataset Clustering] (https://www.kaggle.com/code/mmanuelam/wine-dataset)**  
-  Exploratory analysis of health data using R and visualisation tools.
+- **[Unsupervised Machine Learning: Wine Dataset Clustering](https://www.kaggle.com/code/mmanuelam/wine-dataset)**  
+ Applied clustering techniques (K-Means, PCA) to identify patterns in wine quality data.
+
+
+- **[Supervised Machine Learning: Temperature Data Analysis](https://www.kaggle.com/code/mmanuelam/data-temperature)**
+- Used dimensionality reduction and clustering to analyse temperature data for anomaly detection.
+
 
 - **[Real Estate Price Analysis](https://www.kaggle.com/code/mmanuelam/real-estate-analysis)**  
   Cleaning, modelling and visual insights into housing market data.
