@@ -28,9 +28,8 @@ I'm a data-driven problem solver with over a decade of experience in academia an
 
 - **[Visualization with Google Looker studio](https://lookerstudio.google.com/reporting/d0926215-10c1-4e91-b819-5e23ec44c01d/page/Hgd7D)**  
   Cleaning data for the helpdesk tickets and visualisation using Google looker studio.
-- ** https://github.com/Chanmura06/Udemy-Courses-Power-BI-Analysis
-
-- **[Udemy Courses Power BI Analysis]() 
+  
+- **[Udemy Courses Power BI Analysis](https://github.com/Chanmura06/Udemy-Courses-Power-BI-Analysis)** 
    This project explores and analyses a dataset of Udemy courses using **Power BI**. The goal is to uncover insights into the range of courses   offered, course ratings, and subscriber patterns.  
 
 ## 🛠️ Skills & Tools
