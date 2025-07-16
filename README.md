@@ -20,7 +20,7 @@ I'm a data-driven problem solver with over a decade of experience in academia an
 
 
 - **[Supervised Machine Learning: Temperature Data Analysis](https://www.kaggle.com/code/mmanuelam/data-temperature)**
-- Used dimensionality reduction and clustering to analyse temperature data for anomaly detection.
+  Used dimensionality reduction and clustering to analyse temperature data for anomaly detection.
 
 
 - **[Real Estate Price Analysis](https://www.kaggle.com/code/mmanuelam/real-estate-analysis)**  
