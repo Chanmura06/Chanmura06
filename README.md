@@ -30,8 +30,9 @@ I'm a data-driven problem solver with over a decade of experience in academia an
   Cleaning data for the helpdesk tickets and visualisation using Google looker studio.
 - ** https://github.com/Chanmura06/Udemy-Courses-Power-BI-Analysis
 
--- **[Udemy Courses Power BI Analysis]() 
+- **[Udemy Courses Power BI Analysis]() 
    This project explores and analyses a dataset of Udemy courses using **Power BI**. The goal is to uncover insights into the range of courses   offered, course ratings, and subscriber patterns.  
+
 ## 🛠️ Skills & Tools
 
 `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `scikit-learn`  
